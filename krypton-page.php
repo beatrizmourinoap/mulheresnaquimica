@@ -1,0 +1,1 @@
+<?php include_once("krypton-page.html"); ?>
