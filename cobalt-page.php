@@ -1,0 +1,1 @@
+<?php include_once("cobalt-page.html"); ?>
