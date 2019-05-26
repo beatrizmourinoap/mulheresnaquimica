@@ -1,1 +1,1 @@
-<?php include_once("actinium-page.html"); ?>
+<?php include_once("actinium-page.html"); header('Content-Type: text/html; charset=ISO-8859-1'); ?>
