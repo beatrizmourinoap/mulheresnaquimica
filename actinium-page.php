@@ -1,2 +1,3 @@
-<?php include_once("actinium-page.html"); echo htmlspecialchars($string, ENT_COMPAT,'ISO-8859-1', true);
-echo htmlentities($string, ENT_COMPAT,'ISO-8859-1', true); ?>
+<?php include_once("actinium-page.html"); header("Content-Type: text/html;
+charset=utf-8");
+ini_set("default_charset", 'utf-8'); ?>
